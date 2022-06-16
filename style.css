@@ -17,14 +17,14 @@ ol{
    position: relative;
    bottom: 180px;
    font-family: arial black;
-   right: 420px;
+   right: 570px;
 }
 .c{
    font-size: 30px; 
    position: relative;
    bottom: 105px;
    font-family: arial black;
-   right: 100px;
+   right: 220px;
 }
 body{
     background-color: maroon;
@@ -63,7 +63,7 @@ iframe{
     font-size: 30px;
     font-family: arial black;
     bottom: 250px;
-    left: 200px;
+    left: 150px;
 }
 .rar{
     font-size: 40px;
